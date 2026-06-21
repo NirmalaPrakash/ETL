@@ -1,6 +1,6 @@
 ---
 
-# Enterprise Incremental ETL Project
+## Enterprise Incremental ETL Project
 
 ## Source
 **Database:** AdventureWorks2019
@@ -379,8 +379,11 @@ Updated=10
 ---
 
 # Disadvantages
+
 ❌ Extra Lookup
+
 ❌ Extra Update Table
+
 ❌ More SSIS components
 
 ---
